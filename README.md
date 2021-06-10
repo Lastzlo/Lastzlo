@@ -1,9 +1,9 @@
-Hi, I’m Vladislav 
-Kiev
-Phone, Viber, Telegram: 063 281-00-02
-LinkedIn: https://www.linkedin.com/in/vladislav-nikolaev-983b85202/
-Email: nikolaevvvlad@gmail.com
-Age: 23
+- 👋 Hi, I’m Vladislav 
+- 👀 Kiev
+- 🌱 Phone, Viber, Telegram: 063 281-00-02
+- 💞️ LinkedIn: https://www.linkedin.com/in/vladislav-nikolaev-983b85202/
+- 📫 Email: nikolaevvvlad@gmail.com
+- ❤️ Age: 23
 
 <!---
 - 👋 Hi, I’m @Lastzlo
