@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Vladislav 
+- 👋 Hi, I’m Vlad 
 - 👀 Kiev
 - 🌱 Phone, Viber, Telegram: 063 281-00-02
 - 💞️ LinkedIn: https://www.linkedin.com/in/vladislav-nikolaev-983b85202/
